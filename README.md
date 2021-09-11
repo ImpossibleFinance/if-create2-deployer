@@ -4,13 +4,15 @@ This repo contains Impossible Finance's create2 deployers.
 
 ## Deployed Deployers
 
-The IF dev team has already deployed this contract to the address:
+This create2 contract is deployed to the address:
 
 ```
 0x790DeEB2929201067a460974612c996D2A25183d
 ```
 
-Using the EOA `0x7c450965a6b06065c219f714862Fa035866567Cf`, on the following chains:
+Using the EOA `0x7c450965a6b06065c219f714862Fa035866567Cf`.
+
+This create2 contract is on the following chains:
 
 ```
 BSC
