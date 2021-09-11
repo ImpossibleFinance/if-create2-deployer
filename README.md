@@ -65,6 +65,8 @@ npx hardhat run ./scripts/deploy-Create2Deployer.ts --network hardhat
 
 Please be careful to deploy from a wallet that has the same nonce on every chain.
 
+It is not necessary to run these deploy commands again unless you want to deploy new create2 contracts.
+
 ```
 # bsc
 npx hardhat run ./scripts/deploy-Create2Deployer.ts --network bsc_main
