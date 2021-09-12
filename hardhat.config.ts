@@ -66,5 +66,14 @@ module.exports = {
       url: 'https://rpc.testnet.moonbeam.network',
       accounts: { mnemonic: process.env.MNEMONIC || '' },
     },
+
+    avalanche_main: {
+      url: 'https://api.avax.network/ext/bc/C/rpc',
+      accounts: { mnemonic: process.env.MNEMONIC || '' },
+    },
+    avalanche_fuji: {
+      url: 'https://api.avax-test.network/ext/bc/C/rpc',
+      accounts: { mnemonic: process.env.MNEMONIC || '' },
+    },
   },
 }

@@ -27,12 +27,11 @@ Polygon
     Mumbai ✅
 Avalanche
     Mainnet ⌛
-    Fuji ⌛
+    Fuji ✅
 Moonbeam
     Mainnet ⌛
-    Moonbase Alpha ❗
-        As of now, this is deployed
-        Note that this chain state is occasionally purged
+    Moonbase Alpha ✅❗
+        Deployed at time of writing, but this chain is occasionally purged
 Moonriver
     Canary net ⌛
 Arbitrum
@@ -78,4 +77,8 @@ npx hardhat run ./scripts/deploy-Create2Deployer.ts --network eth_ropsten
 # polygon
 npx hardhat run ./scripts/deploy-Create2Deployer.ts --network polygon_main
 npx hardhat run ./scripts/deploy-Create2Deployer.ts --network polygon_mumbai
+# avalanche
+npx hardhat run ./scripts/deploy-Create2Deployer.ts --network avalanche_fuji
+# moonbeam
+npx hardhat run ./scripts/deploy-Create2Deployer.ts --network moonbeam_mb_alpha
 ```
