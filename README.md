@@ -21,7 +21,7 @@ BSC
 ETH
     Mainnet ⌛
     Rinkeby ✅
-    Ropsten ⌛
+    Ropsten ✅
 Polygon
     Mainnet ⌛
     Mumbai ✅
