@@ -75,5 +75,10 @@ module.exports = {
       url: 'https://api.avax-test.network/ext/bc/C/rpc',
       accounts: { mnemonic: process.env.MNEMONIC || '' },
     },
+
+    arbitrum_rinkeby: {
+      url: 'https://rinkeby.arbitrum.io/rpc',
+      accounts: { mnemonic: process.env.MNEMONIC || '' },
+    },
   },
 }

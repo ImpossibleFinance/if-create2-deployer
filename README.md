@@ -35,7 +35,7 @@ Moonbeam
 Moonriver
     Canary net ⌛
 Arbitrum
-    Rinkeby ⌛
+    Rinkeby ✅
 ```
 
 ## Setup
@@ -81,4 +81,6 @@ npx hardhat run ./scripts/deploy-Create2Deployer.ts --network polygon_mumbai
 npx hardhat run ./scripts/deploy-Create2Deployer.ts --network avalanche_fuji
 # moonbeam
 npx hardhat run ./scripts/deploy-Create2Deployer.ts --network moonbeam_mb_alpha
+# arbitrum
+npx hardhat run ./scripts/deploy-Create2Deployer.ts --network arbitrum_rinkeby
 ```
