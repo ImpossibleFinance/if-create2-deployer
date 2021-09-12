@@ -16,7 +16,7 @@ This create2 contract is on the following chains:
 
 ```
 BSC
-    Mainnet ⌛
+    Mainnet ✅
     Testnet ✅
 ETH
     Mainnet ⌛
