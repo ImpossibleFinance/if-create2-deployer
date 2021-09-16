@@ -19,7 +19,7 @@ BSC
     Mainnet ✅
     Testnet ✅
 ETH
-    Mainnet ⌛
+    Mainnet ✅
     Rinkeby ✅
     Ropsten ✅
 Polygon

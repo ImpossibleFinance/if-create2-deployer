@@ -22,20 +22,16 @@ module.exports = {
 
     bsc_main: {
       url: 'https://bsc-dataseed.binance.org/',
-      chainId: 56,
-      gasPrice: 5000000000,
       accounts: { mnemonic: process.env.MNEMONIC || '' },
     },
     bsc_test: {
       url: 'https://data-seed-prebsc-1-s1.binance.org:8545',
-      chainId: 97,
-      gasPrice: 11000000000,
       accounts: { mnemonic: process.env.MNEMONIC || '' },
     },
 
     eth_main: {
       // metamask RPC url
-      url: 'https://mainnet.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161',
+      url: 'https://main-light.eth.linkpool.io/',
       accounts: { mnemonic: process.env.MNEMONIC || '' },
     },
     eth_rinkeby: {
