@@ -28,12 +28,11 @@ Polygon
 Avalanche
     Mainnet ✅
     Fuji ✅
-Moonbeam
+Moonbeam (polkadot)
     Mainnet ⌛ (moonbeam mainnet is slated for Q4 2021)
-    Moonbase Alpha ✅❗
-        Deployed at time of writing, but this chain is occasionally purged
-Moonriver
-    Canary net ⌛
+    Moonbase Alpha ✅❗ (deployed, but this chain is occasionally purged)
+Moonriver (kusama)
+    Mainnet ✅
 Arbitrum
     Rinkeby ✅
 ```

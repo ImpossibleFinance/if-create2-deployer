@@ -61,9 +61,14 @@ module.exports = {
     },
 
     moonbeam_mb_alpha: {
-      // testnet for moonbeam
+      // testnet for moonbeam (moonbase alpha)
       // note: this chain is ephemeral, chain is purged from time to time
       url: 'https://rpc.testnet.moonbeam.network',
+      accounts: { mnemonic: process.env.MNEMONIC || '' },
+    },
+
+    moonriver_main: {
+      url: 'https://rpc.moonriver.moonbeam.network',
       accounts: { mnemonic: process.env.MNEMONIC || '' },
     },
 
