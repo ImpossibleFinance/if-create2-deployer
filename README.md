@@ -23,7 +23,7 @@ ETH
     Rinkeby ✅
     Ropsten ✅
 Polygon
-    Mainnet ⌛
+    Mainnet ✅
     Mumbai ✅
 Avalanche
     Mainnet ✅
