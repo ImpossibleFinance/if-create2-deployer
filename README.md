@@ -26,10 +26,10 @@ Polygon
     Mainnet ⌛
     Mumbai ✅
 Avalanche
-    Mainnet ⌛
+    Mainnet ✅
     Fuji ✅
 Moonbeam
-    Mainnet ⌛
+    Mainnet ⌛ (moonbeam mainnet is slated for Q4 2021)
     Moonbase Alpha ✅❗
         Deployed at time of writing, but this chain is occasionally purged
 Moonriver
