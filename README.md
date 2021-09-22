@@ -1,6 +1,8 @@
 # IF Create2 Deployers
 
-This repo contains Impossible Finance's create2 deployers.
+This repo contains Impossible Finance's [create2 deployers](https://andrecronje.medium.com/multichain-dapp-guide-standards-and-best-practices-8fabe2672c60).
+
+We aim to maintain the most complete set of deployers. If you would like to use one that does not currently exist on this list, please contact dev@impossible.finance.
 
 ## Deployed Deployers
 
